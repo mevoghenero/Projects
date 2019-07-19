@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(221, 213, 213);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    margin-left: 10px;
+    color: rgb(0, 109, 128);
+}
+
+p{
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    color:rgb(0, 109, 128)
+}
+
+.food li{
+    font-size:18px;
+    font-weight: 500;
+}
+
+
+li a{
+    text-decoration: underline;
+}
